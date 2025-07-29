@@ -1,4 +1,4 @@
--- Script de Fly para The Literally usando Rayfield
+
 -- Exclusivo para PC
 -- Feito por: snow
 -- Exclusivamente para: z4
